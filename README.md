@@ -1,7 +1,7 @@
 # Detecting Coronavirus Infections through Chest X-Ray images
 
 ## Dataset
-- Access dataset from [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing).
+Access dataset from [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing).
 
 ## Description about Models used:
 Two Models were used: VGG16 and ResNet18 with modiftication in Fully connected layers.
@@ -21,6 +21,13 @@ Two Models were used: VGG16 and ResNet18 with modiftication in Fully connected l
     (2): Dropout(p=0.5, inplace=False)
     (3): Linear(in_features=1060, out_features=2, bias=True)
 ```
+
+## Get Trained model
+Download trained models using following links
+* VGG16 Entire: [Download](https://drive.google.com/file/d/1-2MPtBDxXBEK_a1hkv-lmty0AZhOplR-/view?usp=sharing)
+* ResNet Entire: [Download](https://drive.google.com/file/d/1-2uOOHnIDZuX8JiffRnt1XLbgMMjIFUZ/view?usp=sharing)
+* VGG FC Only: [Download](https://drive.google.com/file/d/1hJI86eA9Sb9n0Z4hBBdRd9KsI3dZliNb/view?usp=sharing)
+* ResNet FC Only : [Download](https://drive.google.com/file/d/1-09GoYnB8zTZMhhr1NnGbYRHza3ooX1t/view?usp=sharing)
 
 ## Results
 ### Confusion Matrices and F1 Scores
