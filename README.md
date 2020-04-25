@@ -21,3 +21,6 @@ Two Models were used: VGG16 and ResNet18 with modiftication in Fully connected l
     (2): Dropout(p=0.5, inplace=False)
     (3): Linear(in_features=1060, out_features=2, bias=True)
 ```
+
+## Results
+### Confusion Matrices and F1 Scores
