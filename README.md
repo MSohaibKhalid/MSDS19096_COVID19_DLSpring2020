@@ -32,6 +32,12 @@ Download trained models using following links
 ## Results
 #### Confusion Matrices and F1 Scores
 ![](Results/Vgg16_Entire.JPG)
+```
+** Best val acc results **
+train ==> Loss: 0.3007 , Acc: 87.65 %
+val ==> Loss: 0.2924 , Acc: 88.93 %
+Testing Data accuracy: 94 %
+```
 ![](Results/Resnet18_Entire.JPG)
 ![](Results/Vgg_FC_Only.JPG)
 ![](Results/Resnet18_FC_Only.JPG)
