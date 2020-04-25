@@ -31,3 +31,7 @@ Download trained models using following links
 
 ## Results
 #### Confusion Matrices and F1 Scores
+![](Results/Vgg16_Entire.JPG)
+![](Results/Resnet18_Entire.JPG)
+![](Results/Vgg_FC_Only.JPG)
+![](Results/Resnet18_FC_Only.JPG)
