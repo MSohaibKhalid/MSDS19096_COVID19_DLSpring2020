@@ -22,7 +22,7 @@ Two Models were used: VGG16 and ResNet18 with modiftication in Fully connected l
     (3): Linear(in_features=1060, out_features=2, bias=True)
 ```
 
-## Get Trained model
+## Get Trained Models
 Download trained models using following links
 * VGG16 Entire: [Download](https://drive.google.com/file/d/1-2MPtBDxXBEK_a1hkv-lmty0AZhOplR-/view?usp=sharing)
 * ResNet18 Entire: [Download](https://drive.google.com/file/d/1-2uOOHnIDZuX8JiffRnt1XLbgMMjIFUZ/view?usp=sharing)
