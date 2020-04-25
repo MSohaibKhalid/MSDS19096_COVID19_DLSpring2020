@@ -62,3 +62,7 @@ val ==> Loss: 0.3369 , Acc: 86.27 %
 Testing Data accuracy: 92 %
 ```
 ---
+
+## Required Tools
+* Python
+* Pytorch
