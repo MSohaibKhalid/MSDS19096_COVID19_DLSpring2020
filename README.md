@@ -30,7 +30,6 @@ Download trained models using following links
 * ResNet18 FC Only : [Download](https://drive.google.com/file/d/1-09GoYnB8zTZMhhr1NnGbYRHza3ooX1t/view?usp=sharing)
 
 ## Results
-#### Confusion Matrices and F1 Scores
 ![](Results/Vgg16_Entire.JPG)
 ```
 ** Best val acc results **
