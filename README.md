@@ -5,7 +5,7 @@
 - Access dataset from [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing).
 
 ## Architecture followed for VGG16 Model
-'''
+```
 VGG(
   (features): Sequential(
     (0): Conv2d(3, 64, kernel_size=(3, 3), stride=(1, 1), padding=(1, 1))
@@ -48,4 +48,4 @@ VGG(
     (3): Linear(in_features=1060, out_features=2, bias=True)
   )
 )
-'''
+```
