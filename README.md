@@ -63,6 +63,6 @@ Testing Data accuracy: 92 %
 ```
 ---
 
-## Required Tools
+## Tools Used
 * Python
 * Pytorch
