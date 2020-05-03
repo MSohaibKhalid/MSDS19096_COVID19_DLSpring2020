@@ -34,10 +34,10 @@ Download trained models using following links
 * VGG16 FC Only: [Download](https://drive.google.com/file/d/1hJI86eA9Sb9n0Z4hBBdRd9KsI3dZliNb/view?usp=sharing)
 * ResNet18 FC Only : [Download](https://drive.google.com/file/d/1-09GoYnB8zTZMhhr1NnGbYRHza3ooX1t/view?usp=sharing)
 ### For Part 2
-* VGG16 with Focal loss: [Download]()
-* ResNet18 with Focal loss: [Download]()
-* VGG16 without Focal loss: [Download]()
-* ResNet18 without Focal loss: [Download]()
+* VGG16 with Focal loss: [Download](https://drive.google.com/file/d/1-AQaoK-eHB79seSrUUWktItUSyuGH1jG/view?usp=sharing)
+* ResNet18 with Focal loss: [Download](https://drive.google.com/file/d/1aEb1ImxffU8A8M25yPZPs6VaK_m3r3Aj/view?usp=sharing)
+* VGG16 without Focal loss: [Download](https://drive.google.com/file/d/1Fp5IUtN6H5VuXeifeyFbol01aeLWGHEF/view?usp=sharing)
+* ResNet18 without Focal loss: [Download](https://drive.google.com/file/d/1-2YKvzD9NBSj50nykVt9idfqrVHv6ZoL/view?usp=sharing)
 
 ## Results
 ### Experimental results for Part 1
