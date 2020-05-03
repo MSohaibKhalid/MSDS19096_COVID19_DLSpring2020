@@ -39,8 +39,8 @@ Download trained models using following links
 * VGG16 without Focal loss: [Download]()
 * ResNet18 without Focal loss: [Download]()
 
-# Results
-## Experiments on dataset for Part 1
+## Results
+### Experimental results for Part 1
 ![](Results/Vgg16_Entire.JPG)
 ```
 ** Best val acc results **
@@ -73,8 +73,8 @@ val ==> Loss: 0.3369 , Acc: 86.27 %
 Testing Data accuracy: 92 %
 ```
 ---
-## Experiments on dataset for Part 2
-### Following are the best model results
+### Experiments results for Part 2
+#### Following are the best model results
 ![](Results/VGG_ResNet_Focal_Loss.JPG)
 ---
 ![](Results/VGG_ResNet_without_Focal_Loss.JPG)
