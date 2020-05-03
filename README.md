@@ -31,7 +31,8 @@ Download trained models using following links
 * VGG16 FC Only: [Download](https://drive.google.com/file/d/1hJI86eA9Sb9n0Z4hBBdRd9KsI3dZliNb/view?usp=sharing)
 * ResNet18 FC Only : [Download](https://drive.google.com/file/d/1-09GoYnB8zTZMhhr1NnGbYRHza3ooX1t/view?usp=sharing)
 
-## Results
+# Results
+## Experiments on dataset for Part 1
 ![](Results/Vgg16_Entire.JPG)
 ```
 ** Best val acc results **
@@ -64,7 +65,7 @@ val ==> Loss: 0.3369 , Acc: 86.27 %
 Testing Data accuracy: 92 %
 ```
 ---
-# Experiments on dataset for Part 2
+## Experiments on dataset for Part 2
 ### Following are the best model results
 ![](Results/VGG_ResNet_Focal_Loss.JPG)
 ---
