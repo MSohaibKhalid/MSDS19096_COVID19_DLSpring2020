@@ -1,7 +1,8 @@
 # Detecting Coronavirus Infections through Chest X-Ray images
 
 ## Dataset
-Access dataset from [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing).
+Access dataset without Focal loss from [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing).
+Access dataset for Focal loss from [here](https://drive.google.com/drive/folders/1iXz_Gb_b5SZH1b262DoL9e-g7fGgGDSu?usp=sharing).
 
 ## Description about Models used:
 Two Models were used: VGG16 and ResNet18 with modiftication in Fully connected layers.
