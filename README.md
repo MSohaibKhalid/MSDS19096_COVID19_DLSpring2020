@@ -28,10 +28,16 @@ Two Models were used: VGG16 and ResNet18 with modiftication in Fully connected l
 
 ## Get Trained Models
 Download trained models using following links
+### For Part 1
 * VGG16 Entire: [Download](https://drive.google.com/file/d/1-2MPtBDxXBEK_a1hkv-lmty0AZhOplR-/view?usp=sharing)
 * ResNet18 Entire: [Download](https://drive.google.com/file/d/1-2uOOHnIDZuX8JiffRnt1XLbgMMjIFUZ/view?usp=sharing)
 * VGG16 FC Only: [Download](https://drive.google.com/file/d/1hJI86eA9Sb9n0Z4hBBdRd9KsI3dZliNb/view?usp=sharing)
 * ResNet18 FC Only : [Download](https://drive.google.com/file/d/1-09GoYnB8zTZMhhr1NnGbYRHza3ooX1t/view?usp=sharing)
+### For Part 2
+* VGG16 with Focal loss: [Download]()
+* ResNet18 with Focal loss: [Download]()
+* VGG16 without Focal loss: [Download]()
+* ResNet18 without Focal loss: [Download]()
 
 # Results
 ## Experiments on dataset for Part 1
