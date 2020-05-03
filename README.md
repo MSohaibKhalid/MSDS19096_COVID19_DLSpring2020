@@ -4,9 +4,8 @@
 There are two parts of experimentation. Different Datasets were used for both experimentaion. First dataset has on two classes {Infected, Normal} while seocnd dataset has three {COVID-19, Pneumonia, Normal}. For first part only CE loss was used with softmax applied at last layer. In second part, BCE loss and Focal loss(a modified form of BCE loss to limit biasedness towards easy classes) was used.
 
 ## Dataset
-Access dataset for Part 1 from [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing).
-
-Access dataset for Part 2 from [here](https://drive.google.com/drive/folders/1iXz_Gb_b5SZH1b262DoL9e-g7fGgGDSu?usp=sharing).
+* Access dataset for Part 1 from [here](https://drive.google.com/drive/folders/1P11biqCGNk5zWqILLdNkuPtbZpvXb1ay?usp=sharing).
+* Access dataset for Part 2 from [here](https://drive.google.com/drive/folders/1iXz_Gb_b5SZH1b262DoL9e-g7fGgGDSu?usp=sharing).
 
 ## Description about Models used:
 Two Models were used: VGG16 and ResNet18 with modiftication in Fully connected layers.
