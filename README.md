@@ -64,6 +64,12 @@ val ==> Loss: 0.3369 , Acc: 86.27 %
 Testing Data accuracy: 92 %
 ```
 ---
+# Experiments on dataset for Part 2
+### Following are the best model results
+![](Results/VGG_ResNet_Focal_Loss.JPG)
+---
+![](Results/VGG_ResNet_without_Focal_Loss.JPG)
+---
 
 ## Tools Used
 * Python
