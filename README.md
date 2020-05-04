@@ -77,7 +77,7 @@ Testing Data accuracy: 92 %
 #### Following are the best model results
 ![](Results/VGG_ResNet_Focal_Loss.JPG)
 ---
-![](Results/VGG_ResNet_without_Focal_Loss.JPG)
+![](Results/VGG_ResNet_wo_Focal_Loss.JPG)
 ---
 
 ## Tools Used
